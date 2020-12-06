@@ -14,6 +14,6 @@
 
 ---
 
-- mvn cleanb install
+- mvn clean install
 
 - mvn test
